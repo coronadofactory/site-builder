@@ -1,3 +1,3 @@
 # Cookies consent
 
-[Google Info](http://www.cookiechoices.org)
+The files were extracted from [http://www.cookiechoices.org](http://www.cookiechoices.org) page
